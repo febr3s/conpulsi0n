@@ -1,0 +1,48 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Enable to show reading time in minutes for posts
+  showReadingTime = false
+
+[languages]
+  [languages.en]
+    title = "con pulsi0n"
+    subtitle = "blog de Eduardo Febres"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = ""
+    readMore = "Leer más"
+    readOtherPosts = "Read other posts"
+    newerPosts = "posts más recientes"
+    olderPosts = "posts anteriores"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "con pulsi0n"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "responsable"
+        url = "http://febr3s.github.io"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "archivo"
+        url = "/archive"
