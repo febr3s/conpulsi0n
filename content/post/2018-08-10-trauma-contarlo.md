@@ -6,7 +6,10 @@ Date: "2018-08-10"
 Tags: 
     - Literatura
     - Futuro
+Description: "La serie no es infinita pero sí podría seguir muchas líneas más. Y detenerse en una que de algún modo explica o trata de justificar o argumentar el rechazo al remedio de reconocer el límite: en diciembre de 2010 inicio un relato seriado, que cuenta, que va a contar lo que va a pasar, lo que está pasando, mientras cuenta las horas, días, minutos, segundos, que quedan (es regresiva) para que se acabe 'el mundo' según la cuenta maya mal traducida por la escatología occidental."
+
 ---
+
 ![cover-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mayan_Zodiac_Circle.jpg/600px-Mayan_Zodiac_Circle.jpg)
 
 (trece líneas tachadas después) *Francamente no sé. Francamente no puedo*. Fórmulas para quitarse un poco el colesterol mental, anímico, espiritual. Un remedio de uso no tan corriente (creo) como el *alguien debería*, que da la ilusión de alargarle la vida al deseo.

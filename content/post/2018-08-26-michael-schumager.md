@@ -4,8 +4,9 @@ published: true
 title: Michael Schumager llora en silencio°
 Date: "2018-08-26"
 categories: 
-    - Literatura
-    - Futuro
+    - El Caso Venezuela
+    - Mashups
+Description: "Mashup con 38 tendencias de Twitter en Venezuela, el 25 de agosto de 2018, entre 10 y 11pm"
 ---
 
 *Para El Tuki Ilustrado*

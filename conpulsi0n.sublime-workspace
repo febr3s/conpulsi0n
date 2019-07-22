@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AGROI",
+				"agroindustriales"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/febres/Documentos/febres/content/post/jalabolismo.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-31-katia.md",
+		"/home/febres/Documentos/febres/content/hello.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-26-michael-schumager.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-10-trauma-contarlo.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-31-dignidad-trauma.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-06-trauma-juicio-publico.md",
+		"/home/febres/Documentos/febres/content/post/2018-08-02-trauma-pn.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-30-para-joven-escritor.md",
+		"/home/febres/Documentos/febres/content/post/hello.md",
+		"/home/febres/Documentos/marianny/config.toml",
+		"/home/febres/Documentos/febres/config.toml",
+		"/home/febres/Documentos/febres/content/post/ego-inflado.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-27-cayo-muerto.md",
+		"/home/febres/Documentos/febres/content/post/2018-07-25-abuelo-alcoholico.md",
+		"/home/febres/Documentos/marianny/netlify.toml",
+		"/home/febres/Documentos/marianny/content/posts/editatona-por-las-mujeres.md",
+		"/home/febres/Descargas/Wikipedia.svg",
+		"/home/febres/Documentos/marianny/layouts/partials/svg.html",
+		"/home/febres/Documentos/marianny/themes/hermit/layouts/partials/svg.html",
+		"/home/febres/Documentos/stream-ui-kit/productos.html",
+		"/home/febres/Documentos/stream-ui-kit/nosotros.html",
+		"/home/febres/Documentos/stream-ui-kit/assets/vendors/font-awesome-5/css/fontawesome-all.min.css",
+		"/home/febres/Documentos/stream-ui-kit/package-lock.json",
+		"/home/febres/Documentos/stream-ui-kit/gulpfile.js",
+		"/home/febres/Documentos/stream-ui-kit/assets/css/min.styles.css",
+		"/home/febres/Documentos/stream-ui-kit/assets/css/styles.css",
+		"/home/febres/Documentos/stream-ui-kit/assets/include/scss/blocks/globals/_globals.scss",
+		"/home/febres/Documentos/stream-ui-kit/assets/vendors/typedjs/typed.css",
+		"/home/febres/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/febres/Documentos/stream-ui-kit/home-page.html",
+		"/home/febres/Documentos/heliumjk.github.io/about.html",
+		"/home/febres/Documentos/heliumjk.github.io/_config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-01-20-el-habla-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-12-taller-practico-meditacion.md",
+		"/home/febres/Documentos/beautiful-jekyll/_config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/admin/config.yml",
+		"/home/febres/Documentos/beautiful-jekyll/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/_includes/head.html",
+		"/home/febres/Documentos/beautiful-jekyll/admin/index.html",
+		"/home/febres/Documentos/beautiful-jekyll/retiros.html",
+		"/home/febres/Documentos/beautiful-jekyll/practicas.html",
+		"/home/febres/Documentos/beautiful-jekyll/talleres.html",
+		"/home/febres/Documentos/beautiful-jekyll/ensenanzas.html",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-12-zen-y-budismo-zen.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-16-concentracion-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-30-la-vision-correcta.md",
+		"/home/febres/Documentos/beautiful-jekyll/ceremonias.html",
+		"/home/febres/Documentos/beautiful-jekyll/noticias.html",
+		"/home/febres/Documentos/beautiful-jekyll/_includes/header.html",
+		"/home/febres/Documentos/beautiful-jekyll/404.html",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-05-18-bienvenidos-nuevos-participantes.md",
+		"/home/febres/Documentos/beautiful-jekyll/_posts/2019-06-28-ceremonia-de-ordenacion.md",
+		"/home/febres/Documentos/beautiful-jekyll/_layouts/post.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"",
+			"/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_site",
+			"<open folders>,-/home/febres/Documentos/beautiful-jekyll/_posts",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ocupaado",
+			"febres",
+			"2019",
+			"cop",
+			"posts",
+			"font",
+			"width",
+			"githu",
+			"hugo hermit",
+			"huho hermit",
+			"agríco",
+			"nosotros",
+			"fas",
+			"headset",
+			"head",
+			"qué quere",
+			"cómo",
+			"h2",
+			"h3",
+			"cursor",
+			"servicio",
+			"calidad",
+			"innovative",
+			"creative",
+			"back to ui",
+			"stream",
+			"doesn't",
+			"publicado el",
+			"older posts",
+			"older",
+			"tags",
+			"posted on",
+			"public",
+			"publi",
+			"categories",
+			"posted",
+			"posted on",
+			"posted",
+			"next",
+			"previous post",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tags"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conpulsi0n.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

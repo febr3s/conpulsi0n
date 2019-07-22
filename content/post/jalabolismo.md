@@ -3,6 +3,7 @@ title: El (anti)jalabolismo como problema
 Date: "2019-07-21"
 Tags:
 - El caso Venezuela
+Description: "Por más jalabolas que sea una persona del mundo de la cultura, muy difícilmente reivindique como modelo a grandes jalabolas de la historia de la humanidad. Mucho menos va a denostar a figuras como Poe, Bolaño o Rimbaud, por no haber sido lo suficientemente jalabolas. De hecho, yo tendría más esperanzas de encontrar un auténtico anti-jalabolas en un detractor furibundo de estos clichés del anti-jalabolismo."
 ---
 
 # .
@@ -15,7 +16,7 @@ Vamos a omitir un primer comentario sobre la persona o el mensaje de donde provi
 
 La primera parte del problema, que debería ser la más evidente y la más obvia, aunque pasa bastante desapercibida, es lo complejo de la imagen. Parece una expresión inequívoca, pero si tomamos la única acepción posible, genital (pues el campo semántico beisbolístico, que en otras expresiones explica mejor las metáforas esféricas criollas, en este caso no tendría ningún sentido), es cuando menos paradójica.
 
-El sentido más evidente, y con el que más frecuencia, o casi exclusivamente lo usamos, pone toda la atención sobre el sujeto de la acción: aquel que hala las esféricas. Tirar a otra persona de los testículos supondría un acto de subordinación, adulación, sumisión, desesperación por llamar la atención o convencer de algo, etcétera.
+El sentido más evidente, y con el que más frecuencia o casi exclusivamente lo usamos, pone toda la atención sobre el sujeto de la acción: aquel que hala las esféricas. Tirar a otra persona de los testículos supondría un acto de subordinación, adulación, sumisión, desesperación por llamar la atención o convencer de algo, etcétera.
 
 Sin embargo, poco nos detenemos a pensar en el destino del complemento directo de la acción (las bolas jaladas). El destino de una bola jalada es un destino desdichado. Y si se lleva hasta sus últimas consecuencias la acción de jalar bolas, el resultado no puede ser menos que trágico, y muy perjudicial para el sujeto poseedor de las esféricas. Este sujeto ni siquiera figura en la expresión, aunque es quien posee los testículos sometidos a la presión, potencialmente muy dañina. 
 
