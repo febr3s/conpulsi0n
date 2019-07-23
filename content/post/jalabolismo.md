@@ -14,7 +14,7 @@ Vamos a omitir un primer comentario sobre la persona o el mensaje de donde provi
 
 # .
 
-La primera parte del problema, que debería ser la más evidente y la más obvia, aunque pasa bastante desapercibida, es lo complejo de la imagen. Parece una expresión inequívoca, pero si tomamos la única acepción posible, genital (pues el campo semántico beisbolístico, que en otras expresiones explica mejor las metáforas esféricas criollas, en este caso no tendría ningún sentido), es cuando menos paradójica.
+La primera parte del problema, que debería ser la más evidente y la más obvia, aunque pasa bastante desapercibida, es lo complejo de la imagen. Parece una expresión inequívoca, pero si tomamos acepción más accesible, genital (pues el campo semántico en que se originó está un poco perdida en el tiempo[^1]), es cuando menos paradójica.
 
 El sentido más evidente, y con el que más frecuencia o casi exclusivamente lo usamos, pone toda la atención sobre el sujeto de la acción: aquel que hala las esféricas. Tirar a otra persona de los testículos supondría un acto de subordinación, adulación, sumisión, desesperación por llamar la atención o convencer de algo, etcétera.
 
@@ -43,3 +43,5 @@ El segundo problema no solo no tiene solución, sino que le encuentro pocas preg
 En el primer problema encuentro al menos una pregunta inquietante que habría que hacerse si es verdad [lo que sugería Pío Gil](http://www.redalyc.org/pdf/1701/170118694013.pdf) a principios del siglo pasado, y lo que clama en estos días la persona-problema.
 
 ¿Por qué el mismo pueblo que elige como metáfora de la adulación una que revela su carácter destructivo, castrador, esterilizador, se muestra tan afecto a adular? ¿Es el venezolano realmente un pueblo tan jalabolas? ¿O es que nuestra sujeción al poder es tan frívola, escéptica y superficial, que finalmente cuando parece complacer, apunta en realidad a destruir?
+
+[^1] Gracias a Juan Pablo Gómez por la acotación: "la expresión "jalar bola" en Venezuela parece que proviene de la práctica en bolas criollas de alargar un poco el alcance de la bola que solían hacer los sirvientes para complacer a sus señores. No tiene ninguna connotación testicular, al menos en origen.""
