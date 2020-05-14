@@ -11,6 +11,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "content/post/2018-07-25-abuelo-alcoholico.md",
+			"settings":
+			{
+				"buffer_size": 2880,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -55,6 +64,7 @@
 	],
 	"file_history":
 	[
+		"/home/febres/Documentos/febres/content/post/tolerancia.md",
 		"/home/febres/Documentos/febres/content/post/jalabolismo.md",
 		"/home/febres/Documentos/febres/content/post/2018-08-31-katia.md",
 		"/home/febres/Documentos/febres/content/hello.md",
@@ -112,7 +122,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -191,18 +201,47 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/post/2018-07-25-abuelo-alcoholico.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 36.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -235,7 +274,7 @@
 	"project": "conpulsi0n.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -249,12 +288,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Documentos/morel/dev/morel2.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{

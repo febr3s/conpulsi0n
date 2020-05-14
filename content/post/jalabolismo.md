@@ -44,4 +44,4 @@ En el primer problema encuentro al menos una pregunta inquietante que habría qu
 
 ¿Por qué el mismo pueblo que elige como metáfora de la adulación una que revela su carácter destructivo, castrador, esterilizador, se muestra tan afecto a adular? ¿Es el venezolano realmente un pueblo tan jalabolas? ¿O es que nuestra sujeción al poder es tan frívola, escéptica y superficial, que finalmente cuando parece complacer, apunta en realidad a destruir?
 
-[^1] Gracias a Juan Pablo Gómez por la acotación: "la expresión "jalar bola" en Venezuela parece que proviene de la práctica en bolas criollas de alargar un poco el alcance de la bola que solían hacer los sirvientes para complacer a sus señores. No tiene ninguna connotación testicular, al menos en origen.""
+[^1] Gracias a Juan Pablo Gómez por la acotación: "la expresión "jalar bola" en Venezuela parece que proviene de la práctica en bolas criollas de alargar un poco el alcance de la bola que solían hacer los sirvientes para complacer a sus señores. No tiene ninguna connotación testicular, al menos en origen."
