@@ -6,6 +6,7 @@ Date: "2018-07-27"
 Tags: 
   - Purga terapéutica
   - Historias de viaje
+draft: true
 ---
 
 Mientras bajaba a la panadería conté quince de memoria, entre psiquiatras y psicoanalistas, incluyendo una que según supe después no era ni una ni otra sino *coach*. Y otra que, después de ver el lugar donde atendía (un lugar con una alfombra que ocupaba todo el espacio de unos diez o más metros cuadrados, unas campanitas y unas esencias aromáticas) inventé una excusa y me fui sin la primera sesión.
